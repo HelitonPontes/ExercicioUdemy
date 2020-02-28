@@ -1,0 +1,10 @@
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.Form1.resources
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.Properties.Resources.resources
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.csproj.GenerateResource.cache
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\ExercicioUdemy.exe.config
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\ExercicioUdemy.exe
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\bin\Debug\ExercicioUdemy.pdb
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.exe
+C:\Users\Heliton\source\repos\ExercicioUdemy\ExercicioUdemy\obj\Debug\ExercicioUdemy.pdb
